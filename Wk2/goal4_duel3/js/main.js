@@ -1,6 +1,6 @@
 //  Name:				Bryan J. Gill, MCNPS, S+
-//  Date:				03/04/2014
-//  Assignment:		Goal 1 - Duel 1
+//  Date:				03/17/2014
+//  Assignment:		Goal 4 - Duel 3
 
 //  self-executing function
 (function(){
