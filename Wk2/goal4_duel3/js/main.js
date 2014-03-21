@@ -1,14 +1,14 @@
-//  Name:				Bryan J. Gill, MCNPS, S+
-//  Date:				03/17/2014
-//  Assignment:		Goal 4 - Duel 3
-
-//  self-executing function
-(function(){
+  //  Name:				Bryan J. Gill, MCNPS, S+
+  //  Date:				03/17/2014
+  //  Assignment:		Goal 4 - Duel 3
+  
+  //  self-executing function
+  (function(){
 	console.log("FIGHT!!!");
 
-	//  Fighter Information
-	var fighter1 = ["Iron Man", 20, 100];
-	var fighter2 = ["Thor", 20, 100];
+    var players = [{name:'Iron Man', damage:20, health:100},
+                   {name:'Thor', damage:20, health:100}];
+    //Start round
 	
 	//  Player Health
 	//  var player1Name = "Iron Man";
